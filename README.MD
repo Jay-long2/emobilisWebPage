@@ -78,6 +78,7 @@ c. ## configure the github on terminal
 4. git status : {red : rep. files that are not yet added to be committed} {green rep. files that are ready to be committed}
 5. git add .
    git add filename/foldername
+6. git commit -m "commit message"
 
 
 
